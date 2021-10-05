@@ -1,0 +1,120 @@
+#FundoCinza{
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+    position: absolute;
+    width: 1366px;
+    height: 100px;
+    background-color: rgb(53, 49, 49);
+}
+
+#flex{
+    display: flex;
+    background-color:#108C53;
+    width: 700px;
+    height: 63px;
+    z-index: 1;
+    position: absolute;
+    left: 600px;
+    top: 20px;
+    text-align: center;
+    align-items: center; 
+    align-content: center;
+    justify-content:space-evenly ;
+    border-radius: 25px;
+}
+
+.textoFlex{
+    font-family: 'Montserrat';
+    font-size: 25px;
+    color: white;
+}
+
+#Logo1{
+    top: 25px;
+    position: absolute;
+    z-index: 1;
+}
+
+#Fundo1{
+    position: absolute;
+    left: 0px;
+    width: 1366px;
+    height: 400px;
+    top:100px;
+    z-index: 1;
+
+}
+
+#Slogan{
+    display: flex;
+    text-align: center;
+    align-items: center; 
+    align-content: center;
+    justify-content:space-evenly ;
+    border-radius: 25px;
+    z-index: 3;
+    background-color: white;
+    top: 480px;
+    height: 200px;
+    width: 683px;
+    left: 350px;
+    position: absolute;
+    font-family: 'Montserrat';
+}
+#Footer{
+    background-color: #108C53;
+    z-index: 1;
+    left: 0px;
+    top: 650px;
+    width: 1366px;
+    height: 400px;
+    position: absolute;
+}
+
+.TextFooter{
+    font-family: 'Montserrat';
+    font-size: 15px;
+    color: white;
+}
+
+.Set1{
+   position: absolute;
+   z-index: 2;
+   left: 20px;
+   top: 200px;
+
+}
+
+.Set2{
+    position: absolute;
+    z-index: 2;
+    left: 460px;
+    top: 350px;
+}
+
+.TamanhoIcone{
+    height: 25px;
+    width: 25px;
+}
+
+.SetIcone1{
+    position: absolute;
+   z-index: 2;
+   left: 20px;
+   top: 250px;
+}
+
+.SetIcone3{
+    position: absolute;
+   z-index: 2;
+   left: 60px;
+   top: 250px;
+}
+
+.SetIcone2{
+    position: absolute;
+   z-index: 2;
+   left: 100px;
+   top: 250px;
+}
